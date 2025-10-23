@@ -176,7 +176,7 @@ function App() {
   const pageStyle = {
     minHeight: '100vh',
     width: '100%',
-    background: '#e4be85ff',
+    background: '#transparent',
     display: 'flex',
     flexDirection: 'column',
   }
