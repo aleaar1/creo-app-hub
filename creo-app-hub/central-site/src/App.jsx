@@ -270,7 +270,7 @@ function App() {
                 9. Click Save to record the data in Google Sheets.
                 <br />
                 10. Click Clear to reset the fields and input information for another employee.
-                <br />c
+                <br />
               </>
             }
               downloadHref="/Payroll04_copy2.apk"
