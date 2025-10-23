@@ -225,7 +225,6 @@ function App() {
 
   return (
     <div style={pageStyle}>
-      </div>
       <div style={shellStyle}>
         <div style={headerStyle}>
           <div style={titleRow}>
