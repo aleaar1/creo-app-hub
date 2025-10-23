@@ -319,25 +319,20 @@ function App() {
                 <br />
                 1. Download the APK file.
                 <br />
-                2. Open the application and select the gender.
+                2. Open the application and click “Next” to proceed to the main dashboard.
                 <br />
-                3. Enter their weight in kilograms (kg).
+                3. For Attendance Tracking, input the Days Present for each department and press Calculate. The system will automatically compute:
                 <br />
-                4. Enter their height in centimeters (cm).
+                       - Days Absent
                 <br />
-                5. Tap the Check BMI button to calculate the Body Mass Index.
+                       - Attendance Rate (%)
                 <br />
-                6. The BMI result will appear, indicating whether they are Underweight, Normal, Overweight, or Obese.
+                       - Absent Rate (%)
+                4. For Illness Tracking, input the Number of Sick Employees for each department and press Calculate. The system will automatically compute the Sick Leave Rate (%) for each department.
                 <br />
-                7. A corresponding health suggestion will also be displayed based on the result.
-                <br />
-                8. To perform another calculation, tap the Clear button.
-                <br />
-                9. Click the Back button if you wish to choose another gender.
-                <br />
-                10. Review the results and suggestions carefully, then close the application when finished.
+                5. Tap Clear if you wish to reset all fields and enter new data.
               </>            }
-              downloadHref="https://creotec-prc.vercel.app"
+              downloadHref="/Employee_Monitoring2_3_copy_copy.apk"
               badge="Read Instructions First!"
             />
           </div>
