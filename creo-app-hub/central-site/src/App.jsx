@@ -328,6 +328,7 @@ function App() {
                        - Attendance Rate (%)
                 <br />
                        - Absent Rate (%)
+                <br />
                 4. For Illness Tracking, input the Number of Sick Employees for each department and press Calculate. The system will automatically compute the Sick Leave Rate (%) for each department.
                 <br />
                 5. Tap Clear if you wish to reset all fields and enter new data.
