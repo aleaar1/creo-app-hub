@@ -225,12 +225,6 @@ function App() {
 
   return (
     <div style={pageStyle}>
-        <div className="animated-bg">
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
       </div>
       <div style={shellStyle}>
         <div style={headerStyle}>
